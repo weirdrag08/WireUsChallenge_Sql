@@ -1,4 +1,4 @@
-CREATE TABLE Day6(
+ CREATE TABLE Day6(
     itemno int,
     itemname varchar(255),
     quantity int,
