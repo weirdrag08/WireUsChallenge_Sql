@@ -24,7 +24,7 @@ SELECT SNo, SName, Area
 FROM shop
 WHERE(
     Distance=(
-         SELECT MIN(Distance)
+         SELECT MIN(Distance) 
          FROM shop
     ) 
 );
