@@ -1,4 +1,4 @@
-CREATE TABLE DAY3(
+ CREATE TABLE DAY3(
     Roll_no int,
     Fname VARCHAR(255),
     marks int,
