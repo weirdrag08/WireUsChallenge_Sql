@@ -1,4 +1,4 @@
- CREATE TABLE STUDENT (
+CREATE TABLE STUDENT (
     RollNumber int,
     FirstName varchar(255),
     Stream varchar(255),
