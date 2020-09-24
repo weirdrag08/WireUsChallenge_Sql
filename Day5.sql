@@ -1,4 +1,4 @@
-CREATE TABLE Day5(
+ CREATE TABLE Day5(
     EmpId VARCHAR(255),
     EmpName VARCHAR(255)
 );
