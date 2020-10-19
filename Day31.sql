@@ -1,16 +1,16 @@
--- CREATE TABLE Day31_Table1(
---     empid int,
---     salary int,
---     benefits int,
---     designation VARCHAR(255)
--- );
+CREATE TABLE Day31_Table1(
+    empid int,
+    salary int,
+    benefits int,
+    designation VARCHAR(255)
+);
 
--- CREATE TABLE Day31_Table2(
---     empid int,
---     fname VARCHAR(255),
---     lname VARCHAR(255),
---     city VARCHAR(255)
--- );
+CREATE TABLE Day31_Table2(
+    empid int,
+    fname VARCHAR(255),
+    lname VARCHAR(255),
+    city VARCHAR(255)
+);
 
 INSERT INTO Day31_Table1
 VALUES(10, 75000, 15000, 'Manager');
